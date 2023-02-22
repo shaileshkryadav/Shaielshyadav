@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shailesh Kumar Yadav
+- 👋 Hi, I’m @Shailesh Kumar Yadav
 - 👀 I’m interested in Machine Learning and Web development.
 - 🌱 I’m currently learning web development.
 - - 💞️ I’m looking to collaborate on Web devlopment project.
